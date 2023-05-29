@@ -103,10 +103,8 @@ If you have ideas for releases in the future, it is a good idea to list them in 
 
 ## Authors and acknowledgment
 
-| [<img src="https://lh3.googleusercontent.com/a/AAcHTte1xmCZ9I4zVDv--w3aNuKsCZ5oScMvDlV4NS8T=s288-c-no" width=115><br><sub>Juan Carlos Herazo Plazas.</sub>](https://gitlab.com/juan.herazop) <br/> | [<img src="https://lh3.googleusercontent.com/a-/AD_cMMSNeU-DRdaCVdZsA__CiiaMlIksLUGso-17AHT5=s240-p-k-rw-no" width=115><br><sub>María Fernanda Jiménez Heredia</sub>](https://gitlab.com/
-fernanda.jimenezh) |
+| [<img src="https://lh3.googleusercontent.com/a/AAcHTte1xmCZ9I4zVDv--w3aNuKsCZ5oScMvDlV4NS8T=s288-c-no" width=115><br><sub>Juan Carlos Herazo Plazas.</sub>](https://gitlab.com/juan.herazop) <br/> | [<img src="https://lh3.googleusercontent.com/a-/AD_cMMSNeU-DRdaCVdZsA__CiiaMlIksLUGso-17AHT5=s240-p-k-rw-no" width=115><br><sub>María Fernanda Jiménez Heredia.</sub>](https://gitlab.com/fernanda.jimenezh) <br/> |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 
 ## License
 Open source project.
-
