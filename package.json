@@ -1,0 +1,17 @@
+{
+    "name": "cypress-nodejs-automatizacion",
+    "version": "1.0.0",
+    "description": "Esta automatizacion tiene como objetivo servir de base  de proyecto para una automatizaión de cypress. Es este proyecto se valida la pagina de prueba de store seleniumacademy recorriendo el menu y los sub-menus, para garantizar que estos carguen en el componente deseado.",
+    "main": "index.js",
+    "scripts": {
+        "cy:open": "cypress open",
+        "cy:run": "cypress run",
+        "cy:verify": "cypress verify"
+    },
+    "author": "Juan Carlos Herazo Plazas",
+    "license": "ISC",
+    "dependencies": {
+        "cypress": "^10.2.0"
+    },
+    "keywords": []
+}

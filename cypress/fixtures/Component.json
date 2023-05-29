@@ -1,0 +1,124 @@
+{
+    "URL": "http://demo-store.seleniumacademy.com/",
+    "nav": [{
+            "text": "Women",
+            "sub_nav": [{
+                    "text": "New Arrivals",
+                    "type": " first",
+                    "category": "10"
+                },
+                {
+                    "text": "Tops & Blouses",
+                    "type": "",
+                    "category": "11"
+                },
+                {
+                    "text": "Pants & Denim",
+                    "type": "",
+                    "category": "12"
+                },
+                {
+                    "text": "Dresses & Skirts",
+                    "type": " last",
+                    "category": "13"
+                }
+            ]
+        },
+        {
+            "text": "Men",
+            "sub_nav": [{
+                    "text": "New Arrivals",
+                    "type": " first",
+                    "category": "14"
+                },
+                {
+                    "text": "Shirts",
+                    "type": "",
+                    "category": "15"
+                },
+                {
+                    "text": "Tees, Knits and Polos",
+                    "type": "",
+                    "category": "16"
+                },
+                {
+                    "text": "Pants & Denim",
+                    "type": "",
+                    "category": "17"
+                },
+                {
+                    "text": "Blazers",
+                    "type": " last",
+                    "category": "40"
+                }
+            ]
+        },
+        {
+            "text": "Accessories",
+            "sub_nav": [{
+                    "text": "Eyewear",
+                    "type": " first",
+                    "category": "18"
+                },
+                {
+                    "text": "Jewelry",
+                    "type": "",
+                    "category": "19"
+                },
+                {
+                    "text": "Shoes",
+                    "type": "",
+                    "category": "20"
+                },
+                {
+                    "text": "Bags & Luggage",
+                    "type": " last",
+                    "category": "21"
+                }
+            ]
+        },
+        {
+            "text": "Home & Decor",
+            "sub_nav": [{
+                    "text": "Books & Music",
+                    "type": " first",
+                    "category": "22"
+                },
+                {
+                    "text": "Bed & Bath",
+                    "type": "",
+                    "category": "23"
+                },
+                {
+                    "text": "Electronics",
+                    "type": "",
+                    "category": "24"
+                },
+                {
+                    "text": "Decorative Accents",
+                    "type": " last",
+                    "category": "25"
+                }
+            ]
+        },
+        {
+            "text": "Sale",
+            "sub_nav": [{
+                    "text": "Women",
+                    "type": " first",
+                    "category": "26"
+                },
+                {
+                    "text": "Men",
+                    "type": "",
+                    "category": "27"
+                },
+                {
+                    "text": "Accessories",
+                    "type": "",
+                    "category": "28"
+                }
+            ]
+        }
+    ]
+}
