@@ -6,9 +6,13 @@ Este proyecto implementa una Suite de Pruebas Automatizadas utilizando Cypress p
 El proyecto se centra en la ejecución de pruebas de humo y regresión directamente contra la API, sin depender de la Interfaz Gráfica (UI), validando la lógica del servidor antes de la capa de presentación.
 
 Categoría,Caso de Prueba,Detalle de la Implementación (Lógica de Negocio)
+
 Registro (Sign-up),Creación de Usuario Único,"Envío de datos válidos, validando que el servidor devuelva un código de estado 200 OK."
+
 Registro (Sign-up),Manejo de Duplicidad de Usuarios,"Intento de registro duplicado, esperando la respuesta de error de negocio (""This user already exist"")."
+
 Login (Autenticación),Acceso con Credenciales Válidas,"Simulación de sesión exitosa, validando que la respuesta incluya un Auth_token (Token de Autenticación)."
+
 Login (Autenticación),Fallos por Credenciales Inválidas,"Validación de escenarios negativos (usuario inexistente o password incorrecta), asegurando el mensaje de fallo apropiado."
 
 📊 Reportes y Evidencia
